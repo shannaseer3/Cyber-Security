@@ -16,4 +16,10 @@ SQL Injection Lab Done + Video Record
 Web Vulnerability Testing by Sql Injection
 <img width="960" alt="Screenshot 2022-10-13 03 41 42" src="https://user-images.githubusercontent.com/102585030/203750822-345151e9-9778-4ef6-aacc-84d5893dba4f.png">
 
+Cross Site Scripting Doing
+<img width="960" alt="Screenshot 2022-11-24 16 14 46" src="https://user-images.githubusercontent.com/102585030/203771201-7fd72b50-0ba7-4986-8f05-2392154bd415.png">
+<img width="960" alt="Screenshot 2022-11-24 16 15 16" src="https://user-images.githubusercontent.com/102585030/203771227-4458db98-59b0-478a-aa2f-d1adaef69814.png">
+
+
+
 
