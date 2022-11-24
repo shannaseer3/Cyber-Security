@@ -12,6 +12,8 @@ Checking Open Ports in Kali Linux
 
 SQL Injection Lab Done + Video Record
 <img width="960" alt="Screenshot 2022-10-13 10 09 42" src="https://user-images.githubusercontent.com/102585030/203750453-dcc2f85b-ce69-42f7-bd02-9d0534ebb8f9.png">
+<img width="960" alt="Screenshot 2022-11-24 16 18 04" src="https://user-images.githubusercontent.com/102585030/203771765-63d2e4a4-707c-4f3b-94f1-41abe648e9a5.png">
+
 
 Web Vulnerability Testing by Sql Injection
 <img width="960" alt="Screenshot 2022-10-13 03 41 42" src="https://user-images.githubusercontent.com/102585030/203750822-345151e9-9778-4ef6-aacc-84d5893dba4f.png">
