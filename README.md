@@ -23,6 +23,10 @@ Cross Site Scripting Doing
 <img width="960" alt="Screenshot 2022-11-24 16 14 46" src="https://user-images.githubusercontent.com/102585030/203771201-7fd72b50-0ba7-4986-8f05-2392154bd415.png">
 <img width="960" alt="Screenshot 2022-11-24 16 15 16" src="https://user-images.githubusercontent.com/102585030/203771227-4458db98-59b0-478a-aa2f-d1adaef69814.png">
 
+Snot Using Ubuntu 
+<img width="953" alt="Screenshot 2022-11-24 21171534" src="https://user-images.githubusercontent.com/102585030/203839673-618101e7-0946-4937-b946-e7d5103e20cc.png">
+
+
 
 
 
