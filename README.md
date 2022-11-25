@@ -28,6 +28,8 @@ Snot Using Ubuntu
 
 Buffar Overflow Lab
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/102585030/203880521-e766c54f-c10d-4e62-a091-4d2d66eff01b.png">
+<img width="737" alt="image" src="https://user-images.githubusercontent.com/102585030/203880651-e3365010-9f8d-4bb4-841f-56730f001b5c.png">
+
 
 
 
